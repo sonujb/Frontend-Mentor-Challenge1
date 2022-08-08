@@ -1,0 +1,33 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+
+.heading{
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  font-size: 20px;
+  margin: 15px auto 5px auto;
+  font-weight: 700;
+}
+
+.details{
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+}
+
+.row{
+  background-color: #ffff;
+  height: 520px;
+  width: 340px;
+  margin: 110px auto 0 auto;
+  border-radius: 25px;
+}
+
+.qr-code{
+  height: 300px;
+  width: 320px;
+  margin: 15px auto 0 auto;
+  border-radius: 22px;
+}
